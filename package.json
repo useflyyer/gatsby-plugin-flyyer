@@ -1,0 +1,11 @@
+{
+  "name": "@flayyer/gatsby-plugin-flayyer",
+  "version": "0.0.0",
+  "description": "Gatsby.js x FLAYYER plugin",
+  "main": "index.js",
+  "repository": "http://github.com/flayyer/gatsby-plugin-flayyer",
+  "author": "Patricio Lopez <patricio@flayyer.com>",
+  "license": "MIT",
+  "private": false,
+  "keywords": ["gatsby", "gatsby-plugin", "flayyer"]
+}
