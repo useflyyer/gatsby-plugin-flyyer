@@ -1,5 +1,7 @@
 # We need help developing this plugin 💡
 
+In the meantime you can use our official guide: https://docs.flayyer.com/guides/javascript/gatsbyjs
+
 We want this plugin to:
 
 - Bundle and upload templates located in the `/templates` directory.
